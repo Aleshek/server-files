@@ -1,0 +1,102 @@
+[03:37:12] [INFO] Loaded script server_scripts:tags.js in 0.041 s
+[03:37:12] [INFO] Loaded script server_scripts:removals.js in 0.01 s
+[03:37:12] [INFO] Loaded script server_scripts:unify.js in 0.039 s
+[03:37:12] [INFO] Loaded script server_scripts:envirotech.js in 0.01 s
+[03:37:12] [INFO] Loaded script server_scripts:akashic_tome.js in 0.004 s
+[03:37:13] [INFO] Loaded script server_scripts:atm_star.js in 0.006 s
+[03:37:13] [INFO] Loaded script server_scripts:banned_items.js in 0.001 s
+[03:37:13] [INFO] Loaded script server_scripts:botany_pots.js in 0.005 s
+[03:37:13] [INFO] Loaded script server_scripts:cloche.js in 0.005 s
+[03:37:13] [INFO] Loaded script server_scripts:creative.js in 0.008 s
+[03:37:13] [INFO] Loaded script server_scripts:modify_recipes.js in 0.006 s
+[03:37:13] [INFO] Loaded script server_scripts:RBees/comb_recipes.js in 0.003 s
+[03:37:13] [INFO] Loaded script server_scripts:RBees/valid_apiary.js in 0.018 s
+[03:37:13] [INFO] Loaded script server_scripts:recipes.js in 0.015 s
+[03:37:13] [INFO] Loaded script server_scripts:recipe_fixes.js in 0.01 s
+[03:37:13] [INFO] Loaded script server_scripts:removal_additions.js in 0.001 s
+[03:37:13] [INFO] Loaded script server_scripts:upgrade.js in 0.003 s
+[03:37:13] [INFO] Loaded script server_scripts:u_recipes.js in 0.002 s
+[03:37:13] [INFO] Loaded 18/18 KubeJS server scripts in 0.211 s
+[03:37:13] [INFO] Scripts loaded
+[03:37:13] [INFO] Scanning recipes...
+[03:37:25] [INFO] [blocks] Found 1496 tags, added 3243 objects, removed 80 objects
+[03:37:29] [INFO] [items] Found 3443 tags, added 2961 objects, removed 34 objects
+[03:37:29] [INFO] [fluids] Found 126 tags, added 67 objects, removed 0 objects
+[03:37:29] [INFO] [entity_types] Found 35 tags, added 144 objects, removed 0 objects
+[03:37:29] [INFO] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [recipe_components] Found 0 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[03:37:29] [INFO] [recipe_layers] Found 0 tags, added 0 objects, removed 0 objects
+[03:37:30] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_zombie_pigman_seeds[thermal:insolator]': {"item":"mysticalagriculture:zombie_pigman_seeds"} is not a valid ingredient!
+[03:37:32] [WARN] Failed to parse recipe 'thermal:compat/tconstruct/smelter_alloy_tconstruct_pigiron_ingot[thermal:smelter]': {"item":"tconstruct:pigiron_ingot","count":2} is not a valid result!
+[03:37:32] [WARN] Failed to parse recipe 'allthemodium:vibranium_pile[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:vibranium_pile'
+[03:37:32] [WARN] Failed to parse recipe allthemodium:vibranium_pile[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:vibranium_pile'
+[03:37:32] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_phantom_seeds[thermal:insolator]': {"item":"mysticalagriculture:phantom_seeds"} is not a valid ingredient!
+[03:37:32] [WARN] Failed to parse recipe 'rats:dragon_wing_iaf[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[03:37:32] [WARN] Failed to parse recipe rats:dragon_wing_iaf[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item tag 'iceandfire:dragon_bone'
+[03:37:32] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_villager_seeds[thermal:insolator]': {"item":"mysticalagriculture:villager_seeds"} is not a valid ingredient!
+[03:37:33] [WARN] Failed to parse recipe 'biomesoplenty:soil/ash[botanypots:soil]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:ash_block'
+[03:37:33] [WARN] Failed to parse recipe biomesoplenty:soil/ash[botanypots:soil]: com.google.gson.JsonSyntaxException: Unknown item 'biomesoplenty:ash_block'
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/tconstruct/chiller_tconstruct_pigiron_ingot[thermal:chiller]': {"fluid":"tconstruct:molten_pigiron","amount":144} is not a valid fluid!
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_wolf_seeds[thermal:insolator]': {"item":"mysticalagriculture:wolf_seeds"} is not a valid ingredient!
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/abnormals/upgrade_aquatic/insolator_upgrade_aquatic_searocket_white[thermal:insolator]': {"item":"upgrade_aquatic:searocket_white"} is not a valid ingredient!
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_polar_bear_seeds[thermal:insolator]': {"item":"mysticalagriculture:polar_bear_seeds"} is not a valid ingredient!
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_llama_seeds[thermal:insolator]': {"item":"mysticalagriculture:llama_seeds"} is not a valid ingredient!
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/abnormals/upgrade_aquatic/insolator_upgrade_aquatic_searocket_pink[thermal:insolator]': {"item":"upgrade_aquatic:searocket_pink"} is not a valid ingredient!
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_stray_seeds[thermal:insolator]': {"item":"mysticalagriculture:stray_seeds"} is not a valid ingredient!
+[03:37:33] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vex_seeds[thermal:insolator]': {"item":"mysticalagriculture:vex_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'byg:compat/tconstruct/magmatic_stone_from_casting[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
+[03:37:34] [WARN] Failed to parse recipe byg:compat/tconstruct/magmatic_stone_from_casting[tconstruct:casting_basin]: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_evoker_seeds[thermal:insolator]': {"item":"mysticalagriculture:evoker_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_magma_cube_seeds[thermal:insolator]': {"item":"mysticalagriculture:magma_cube_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_drowned_seeds[thermal:insolator]': {"item":"mysticalagriculture:drowned_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_dolphin_seeds[thermal:insolator]': {"item":"mysticalagriculture:dolphin_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[03:37:34] [WARN] Failed to parse recipe mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/astralsorcery/pulverizer_astralsorcery_aquamarine_ore[thermal:pulverizer]': {"item":"astralsorcery:aquarmarine_sand_ore"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/abnormals/upgrade_aquatic/insolator_upgrade_aquatic_pickerel_weed_purple[thermal:insolator]': {"item":"upgrade_aquatic:pickerel_weed_purple"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_husk_seeds[thermal:insolator]': {"item":"mysticalagriculture:husk_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'allthemodium:allthemodium_pile[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:allthemodium_pile'
+[03:37:34] [WARN] Failed to parse recipe allthemodium:allthemodium_pile[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:allthemodium_pile'
+[03:37:34] [WARN] Failed to parse recipe 'pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[03:37:34] [WARN] Failed to parse recipe pamhc2foodextended:cottoncandyitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodextended:cottoncandyitem'
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/abnormals/upgrade_aquatic/insolator_upgrade_aquatic_pickerel_weed_blue[thermal:insolator]': {"item":"upgrade_aquatic:pickerel_weed_blue"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_panda_seeds[thermal:insolator]': {"item":"mysticalagriculture:panda_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_vindicator_seeds[thermal:insolator]': {"item":"mysticalagriculture:vindicator_seeds"} is not a valid ingredient!
+[03:37:34] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_shulker_seeds[thermal:insolator]': {"item":"mysticalagriculture:shulker_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_ravager_seeds[thermal:insolator]': {"item":"mysticalagriculture:ravager_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'byg:compat/tconstruct/magma_cream_from_cryptic_magma_block_melting[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid tconstruct:magma_cream
+[03:37:35] [WARN] Failed to parse recipe byg:compat/tconstruct/magma_cream_from_cryptic_magma_block_melting[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown fluid tconstruct:magma_cream
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_guardian_seeds[thermal:insolator]': {"item":"mysticalagriculture:guardian_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'byg:compat/tconstruct/magma_cream_from_magmatic_stone_melting[tconstruct:melting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid tconstruct:magma_cream
+[03:37:35] [WARN] Failed to parse recipe byg:compat/tconstruct/magma_cream_from_magmatic_stone_melting[tconstruct:melting]: com.google.gson.JsonSyntaxException: Unknown fluid tconstruct:magma_cream
+[03:37:35] [WARN] Failed to parse recipe 'pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
+[03:37:35] [WARN] Failed to parse recipe pamhc2foodextended:peachesandcreamoatmealitem[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:crop/peach'
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_mooshroom_seeds[thermal:insolator]': {"item":"mysticalagriculture:mooshroom_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_horse_seeds[thermal:insolator]': {"item":"mysticalagriculture:horse_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_silverfish_seeds[thermal:insolator]': {"item":"mysticalagriculture:silverfish_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_fox_seeds[thermal:insolator]': {"item":"mysticalagriculture:fox_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_endermite_seeds[thermal:insolator]': {"item":"mysticalagriculture:endermite_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_witch_seeds[thermal:insolator]': {"item":"mysticalagriculture:witch_seeds"} is not a valid ingredient!
+[03:37:35] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_pillager_seeds[thermal:insolator]': {"item":"mysticalagriculture:pillager_seeds"} is not a valid ingredient!
+[03:37:36] [WARN] Failed to parse recipe 'allthemodium:unobtainium_pile[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:unobtainium_pile'
+[03:37:36] [WARN] Failed to parse recipe allthemodium:unobtainium_pile[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'iceandfire:unobtainium_pile'
+[03:37:36] [WARN] Failed to parse recipe 'thermal:compat/tconstruct/smelter_alloy_tconstruct_slimesteel_ingot[thermal:smelter]': {"item":"tconstruct:blue_slime_ball","count":1} is not a valid ingredient!
+[03:37:36] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_parrot_seeds[thermal:insolator]': {"item":"mysticalagriculture:parrot_seeds"} is not a valid ingredient!
+[03:37:36] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_cat_seeds[thermal:insolator]': {"item":"mysticalagriculture:cat_seeds"} is not a valid ingredient!
+[03:37:36] [WARN] Failed to parse recipe 'byg:compat/tconstruct/cryptic_magma_block_from_casting[tconstruct:casting_basin]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
+[03:37:36] [WARN] Failed to parse recipe byg:compat/tconstruct/cryptic_magma_block_from_casting[tconstruct:casting_basin]: com.google.gson.JsonSyntaxException: Unknown fluid 'tconstruct:magma_cream'
+[03:37:36] [WARN] Failed to parse recipe 'thermal:compat/mysticalagriculture/insolator_mysticalag_bat_seeds[thermal:insolator]': {"item":"mysticalagriculture:bat_seeds"} is not a valid ingredient!
+[03:37:36] [WARN] Failed to parse recipe 'tomeofblood:glyph_sentientharm[ars_nouveau:glyph_recipe]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Expected output to be an item, was unknown string 'ars_nouveau:glyph_sentientharm'
+[03:37:36] [WARN] Failed to parse recipe tomeofblood:glyph_sentientharm[ars_nouveau:glyph_recipe]: com.google.gson.JsonSyntaxException: Expected output to be an item, was unknown string 'ars_nouveau:glyph_sentientharm'
+[03:37:56] [WARN] Error parsing recipe transport:steam_locomotive[transport:rail_workers_bench]: {"type":"transport:rail_workers_bench","ingredient":{"ingredient":{"tag":"forge:storage_blocks/steel"},"count":2},"result":{"item":"transport:steam_locomotive","count":1}}: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+[03:37:57] [WARN] Error creating recipe allthemodium:kjs_8iw4l0bu2acwkwzkt3q5dfdq9[allthemodium:atmshapeless_crafting]: {"ingredients":[{"item":"pedestals:coin/quarry"},{"tag":"forge:storage_blocks/redstone"}],"result":{"item":"pedestals:coin/rfquarry"},"type":"allthemodium:atmshapeless_crafting"}: com.google.gson.JsonSyntaxException: Unknown item 'pedestals:coin/rfquarry'
+[03:37:57] [WARN] Error creating recipe allthemodium:kjs_91w2yvje3z9lzzaf5gouvryhs[allthemodium:atmshapeless_crafting]: {"ingredients":[{"item":"pedestals:coin/quarryb"},{"tag":"forge:storage_blocks/redstone"}],"result":{"item":"pedestals:coin/rfquarryb"},"type":"allthemodium:atmshapeless_crafting"}: com.google.gson.JsonSyntaxException: Unknown item 'pedestals:coin/quarryb'
+[03:38:01] [INFO] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[03:38:06] [INFO] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
